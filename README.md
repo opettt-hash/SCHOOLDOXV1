@@ -144,16 +144,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validate, Serta Ekstraksi Infor
 ---
 
 ### Harga & Lisensi
-Program Script Ini **Di Jual!** 
-- **Harga:** **Rp300.000** ( Permanet & Open Source )
-- Lisensi Berlaku Permanent & Open Source  
-- Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
-
- Untuk Pembelian & Lisensi Hubungi  
-- **Telegram :** [@rolandino28](https://t.me/rolandino28)
-- **Grup Telegram :** [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
-- **Channel Testimoni :** [t.me/rolandinoanjay](https://t.me/rolandinoanjay)
-  
+Program Script Ini Telah "Dihentikan" Silahkan Beralih Ke : 
 ---
 ### Peringatan
 <img src="Rolandino.jpg" alt="IP Result" width="100%">
