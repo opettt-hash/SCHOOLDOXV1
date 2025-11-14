@@ -144,7 +144,8 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validate, Serta Ekstraksi Infor
 ---
 
 ### Harga & Lisensi
-Program Script Ini Telah "Dihentikan" Silahkan Beralih Ke : 
+Program Script Ini Telah "Dihentikan" Silahkan Beralih Ke : https://github.com/opettt-hash/SCHOOLDOXV2.git
+
 ---
 ### Peringatan
 <img src="Rolandino.jpg" alt="IP Result" width="100%">
